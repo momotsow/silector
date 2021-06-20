@@ -5,3 +5,14 @@
 .mb-20 {
   margin-bottom: 60px;
 }
+
+.footer-text p {
+  color: #fff;
+}
+
+.footer {
+  padding: 5px;
+  margin-top: 10px;
+  margin-left: 0;
+  margin-right: 0;
+}
